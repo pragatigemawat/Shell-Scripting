@@ -1,4 +1,4 @@
-his repository is dedicated to my journey of learning Shell Scripting.
+This repository is dedicated to my journey of learning Shell Scripting.
 I'll be adding scripts, notes, and examples as I explore various shell commands, scripting techniques, and automation tasks.
 
 🧠 Topics to be Covered
